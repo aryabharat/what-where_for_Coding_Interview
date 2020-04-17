@@ -48,7 +48,7 @@ Where to Hunt
 - [hackerearth](https://www.hackerearth.com/) Many companies conduct their hiring contest here, just check it regularly.
 - [Techgig](https://www.techgig.com/jobs) Many companies post their jobs here + they also host many contests regularly.
 - **Companies Careers page** Every company have careers sections on their websites which have a list of all the jobs offers by the company
-- **Careers Fair's** Nowadays many organizations host Careers fairs where many companies come with job vacancies.
+- **Careers Fair's** Nowadays organizations host Careers fairs where many companies come with job vacancies.
 
 
 Where to Hunt
