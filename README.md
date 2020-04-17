@@ -3,15 +3,16 @@
 Introduction
 =====
 List of all the important links and resources to look before appearing for a Coding Interview/Job.
+These links are used by me during my preparation. There might be other links that could fit in so please feel free to contribute.:open_hands:
 
-Tips before getting a start
+Tips before getting a start :racehorse:
 -----
 - Choose a programming language like C++, Java, Python, etc.
 - Should start with any predefined library for the language like STL in C++ etc.
 - Any projects under your name would be a plus
 - *Practice and Practice*
 
-Where to Study
+Where to Study :books:
 ======
 - [GeekforGeeks](https://www.geeksforgeeks.org/) Almost every CS topis is covered here.
 - [Code Monk](https://www.hackerearth.com/practice/codemonk/) Topic wise article and pratice questions.
@@ -25,7 +26,7 @@ YouTube
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/playlists) In-depth explanations of topics. 
 
 
-Where to Practice
+Where to Practice :memo::pencil:
 =====
 - [LeetCode](https://leetcode.com/) Excellent set of question with good editorial + Topic wise sorted question + Weekly practice contest. 
 - [Interviewbit](https://www.interviewbit.com/) Topic & Company wise sorted questions + [Interviewbit Academy](https://www.interviewbit.com/academy/)
@@ -40,7 +41,7 @@ YouTube
 - [IDeserve](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) In-depth explanation of interview questions with code.
 - [CS DOJO](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev) No of questions explained are less but the explanation in awsome.
 
-Where to Hunt
+Where to Hunt :eye_speech_bubble:
 =====
 
 - [Linkdin](https://www.linkedin.com/jobs/) Most of the companies post their job here, but the fewer conversions ratio + Good platform for making connection + follow pages like for more jobs opportunities.
@@ -50,18 +51,7 @@ Where to Hunt
 - **Companies Careers page** Every company have careers sections on their websites which have a list of all the jobs offers by the company
 - **Careers Fair's** Nowadays organizations host Careers fairs where many companies come with job vacancies.
 
-
-Where to Hunt
-=====
-
-- [Linkdin](https://www.linkedin.com/jobs/) Most of the companies post their job here, but the fewer conversions ratio + Good platform for making connection + follow pages like for more jobs opportunities.
-- [AngleList](https://angel.co/) Mostly all startups post their jobs here + Good job/Intern conversion chance + Should check & apply regularly.
-- [hackerearth](https://www.hackerearth.com/) Many companies conduct their hiring contest here, just check it regularly.
-- [Techgig](https://www.techgig.com/jobs) Many companies post their jobs here + they also host many contests regularly.
-- **Companies Careers page** Every company have careers sections on their websites which has a list of all the jobs offers by the company
-- **Careers Fair's** Nowdays many organizations host Careers fair's where many companies come with jobs vacancies.
-
-Resume/CoverLetter
+Resume/CoverLetter :raised_hands:
 =====
  - [NovoResume](https://novoresume.com/) Provide decent free template for resume.
  - [Resume Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/resume_temmplate.pdf)
