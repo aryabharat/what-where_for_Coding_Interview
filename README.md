@@ -15,8 +15,8 @@ Tips before getting a start :racehorse:
 Where to Study :books:
 ======
 - [GeekforGeeks](https://www.geeksforgeeks.org/) Almost every CS topis is covered here.
-- [Code Monk](https://www.hackerearth.com/practice/codemonk/) Topic wise article and pratice questions.
-- [DS/Algo](https://github.com/kdn251/interviews) List of all topice with a very short & clean explanations.
+- [Code Monk](https://www.hackerearth.com/practice/codemonk/) Topic wise article with pratice questions.
+- [DS/Algo](https://github.com/kdn251/interviews) List of all topics with a very short & clean explanations.
 
 YouTube
 -----
@@ -44,11 +44,12 @@ YouTube
 Where to Hunt :eye_speech_bubble:
 =====
 
-- [Linkdin](https://www.linkedin.com/jobs/) Most of the companies post their job here, but the fewer conversions ratio + Good platform for making connection + follow pages like for more jobs opportunities.
+- [Linkdin](https://www.linkedin.com/jobs/) Most of the companies post their job here, but have a low conversions ratio + Good platform for making connection + Join groups like [Android Developers Jobs India](https://www.linkedin.com/groups/4229209/) for more jobs opportunities.
 - [AngleList](https://angel.co/) Mostly all startups post their jobs here + Good job/Intern conversion chance + Should check & apply regularly.
-- [hackerearth](https://www.hackerearth.com/) Many companies conduct their hiring contest here, just check it regularly.
-- [Techgig](https://www.techgig.com/jobs) Many companies post their jobs here + they also host many contests regularly.
-- **Companies Careers page** Every company have careers sections on their websites which have a list of all the jobs offers by the company
+- [hackerearth](https://www.hackerearth.com/) Many companies conduct their hiring contest here, just check & participate regularly.
+- [Techgig](https://www.techgig.com/jobs) Many companies post their jobs here + Techgig also host many contests regularly.
+- [Geektrust](https://www.geektrust.in/) Solve any one Geektrust challenge to bypass coding rounds with multiple companies.
+- **Companies Careers page** Every company have careers sections on their websites which have a list of all the jobs offers by the company.
 - **Careers Fair's** Nowadays organizations host Careers fairs where many companies come with job vacancies.
 
 Resume/CoverLetter :raised_hands:
@@ -58,8 +59,15 @@ Resume/CoverLetter :raised_hands:
  - [CoverLetter Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/CoverLetter_Sample.pdf)
  
  
- 
+Other Such Link's:
+=====
+- [tech-interview-handbook](https://github.com/yangshun/tech-interview-handbook)
+- [interview](https://github.com/andreis/interview)
 
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/DAtJCG1t3im1G/giphy.gif">
+</p>
 
 
 
