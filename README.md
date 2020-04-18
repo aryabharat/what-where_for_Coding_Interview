@@ -40,6 +40,7 @@ YouTube
 - [byte by byte](https://www.youtube.com/channel/UCWSYAntBbdd2SLYUqPIxo0w) Good set of standard interview questions.
 - [IDeserve](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) In-depth explanation of interview questions with code.
 - [CS DOJO](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev) No of questions explained are less but the explanation in awsome.
+- [Tushar Roy](https://www.youtube.com/user/tusharroy2525/playlists?view=50&sort=dd&shelf_id=2) Best explanation for Dynamic programming related problems and other topics.
 
 Where to Hunt :eye_speech_bubble:
 =====
