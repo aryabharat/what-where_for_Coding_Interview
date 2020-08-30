@@ -32,6 +32,7 @@ Where to Practice :memo::pencil:
 - [Interviewbit](https://www.interviewbit.com/) Topic & Company wise sorted questions + [Interviewbit Academy](https://www.interviewbit.com/academy/)
 - [HackerRank Interview prep](https://www.hackerrank.com/interview/interview-preparation-kit) Decent set of questions.
 - [Daily Coding Problem](https://www.dailycodingproblem.com/) Provide one question everyday which was asked in a Coding Interview
+- [Binary Search](https://binarysearch.io/problems) Live problem solving and chat with other students.
 - [180 Interview Questions](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit) List of must do questions. 
 
 YouTube
