@@ -24,8 +24,6 @@ YouTube
 - [CS DOJO](https://www.youtube.com/watch?v=bum_19loj9A&list=PLBZBJbE_rGRV8D7XZ08LK6z-4zPoWzu5H) Small set of videos on DS. 
 - [Nick White](https://www.youtube.com/watch?v=37oKYN97LP8&list=PLU_sdQYzUj2kO75GVOBRAU78K7mHG0pMP) Study Guide explanation of DS with problems
 - [Back To Back SWE](https://www.youtube.com/channel/UCmJz2DV1a3yfgrR7GqRtUUA/playlists) In-depth explanations of topics. 
-- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) Topic wise playlist. Tips and tricks for interview questions.
-- [Take U Forward](https://www.youtube.com/c/takeUforward/playlists) Awsome problem explaination with code.
 
 
 Where to Practice :memo::pencil:
@@ -45,6 +43,8 @@ YouTube
 - [IDeserve](https://www.youtube.com/watch?v=NBcqBddFbZw&list=PLamzFoFxwoNjPfxzaWqs7cZGsPYy0x_gI) In-depth explanation of interview questions with code.
 - [CS DOJO](https://www.youtube.com/watch?v=qli-JCrSwuk&list=PLBZBJbE_rGRVnpitdvpdY9952IsKMDuev) No of questions explained are less but the explanation in awsome.
 - [Tushar Roy](https://www.youtube.com/user/tusharroy2525/playlists?view=50&sort=dd&shelf_id=2) Best explanation for Dynamic programming related problems and other topics.
+- [Aditya Verma](https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ) Topic wise playlist. Tips and tricks for interview questions.
+- [Take U Forward](https://www.youtube.com/c/takeUforward/playlists) Awsome problem explaination with code.
 
 Where to Hunt :eye_speech_bubble:
 =====
