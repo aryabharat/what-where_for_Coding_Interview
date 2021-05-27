@@ -62,6 +62,7 @@ Resume/CoverLetter :raised_hands:
  - [NovoResume](https://novoresume.com/) Provide decent free template for resume.
  - [Resume Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/resume_temmplate.pdf)
  - [CoverLetter Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/CoverLetter_Sample.pdf)
+ - [Resume and Cover letter guideline by harvard](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
  
  
 Other Such Link's:
