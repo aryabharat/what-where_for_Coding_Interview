@@ -60,6 +60,7 @@ Where to Hunt :eye_speech_bubble:
 Resume/CoverLetter :raised_hands:
 =====
  - [NovoResume](https://novoresume.com/) Provide decent free template for resume.
+ - [ResumeAI](https://withresumeai.com/) Free ATS checker + AI resume builder; State of ATS 2026 (738/704, Workday 37.9%).
  - [Resume Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/resume_temmplate.pdf)
  - [CoverLetter Sample](https://github.com/aryabharat/what-where_for_Coding_Interview/blob/master/CoverLetter_Sample.pdf)
  - [Resume and Cover letter guideline by harvard](https://ocs.fas.harvard.edu/files/ocs/files/hes-resume-cover-letter-guide.pdf)
