@@ -35,6 +35,7 @@ Where to Practice :memo::pencil:
 - [Binary Search](https://binarysearch.io/problems) Live problem solving and chat with other students.
 - [180 Interview Questions](https://docs.google.com/document/d/1SM92efk8oDl8nyVw8NHPnbGexTS9W-1gmTEYfEurLWQ/edit) List of must do questions. 
 - [InterviewLegend](https://interviewlegend.com) practice interview rounds by company across coding, system design, and behavioral
+- [Nyrion](https://nyrion.ai) practice for AI-assisted coding interviews: a multi-file codebase, an AI assistant in the editor, and an interviewer who asks about your code
 
 YouTube
 -----
